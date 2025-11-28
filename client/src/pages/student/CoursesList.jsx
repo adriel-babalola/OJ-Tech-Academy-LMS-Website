@@ -25,7 +25,7 @@ const CoursesList = () => {
         : setFilteredCourse(tempCourses)
     }
   }, [allCourses, input])
-  useState()
+  
 
   return (
     <>
